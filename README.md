@@ -1,5 +1,13 @@
 Patent Document comparision system
 
+Patcom which means "PATENT DOCUMENT COMPARISON SYSTEM" Is an C-DAC ( Centre for Development of Advanced Computing ) sponsored project, which was built by me and my team under the guidance of C-DAC Officials.
+
+Basically the primary motive of Patcom is to speedup the patent filling process by reducing the man work required to ensure the distinctiveness of an idea of an newly filled patent as compared to the previously filled patents.
+
+To accomplish this, Patcom takes two patent documents as input and gives an comparative summary of two patent documents. And also analyzes and summarizes patent document in terms of similarities and differences.
+
+---------------------------- IMPLEMENTATION -------------------------------------------------------------------
+
 The project is divided into 4 module each module is kept in their respective directory.
 'driver.py' contains the driver function which takes input as 2 pdf document and outputs their comparative summary.
 All the requirements are noted in 'requirement.txt'.
